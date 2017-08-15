@@ -1,0 +1,3 @@
+1、每一个div需要添加一个section类名才能全屏滚动；
+2、需要横向滑动的在该section里添加slide
+具体各种属性的添加可访问wangz
